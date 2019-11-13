@@ -30,13 +30,17 @@ The PaPoC workshop invites two types of submissions:
 * Short papers (5-6 pages) discussing original contributions, experience reports, or work in progress reports (supported by initial validations);
 * Contributed talks, summarized in 2 page extended abstracts, reporting positions and visions for the future, identifying new challenges and research venues, or reports for early ongoing work. 
 
-We accept longer proposals or submissions to other conferences, under the understanding that PC members are only expected to read the first six pages (in the case of papers) or two pages (in the case of extended abstracts) of such longer submissions.
+We accept longer proposals, under the understanding that PC members are only expected to read the first six pages (in the case of papers) or two pages (in the case of extended abstracts) of such longer submissions.
 All submissions should be written in English and provided in PDF format.
 Submissions do not need to be anonymised.
 
 Authors of accepted papers will have the opportunity to choose whether they want their papers published in ACM Digital Library (along with papers from other EuroSys workshops).
 In any case, accepted papers and abstracts will be made available to participants of the workshop.
 At least one author of each accepted submission is expected to present their work at the workshop, and to be available for discussions.
+
+Authors may submit work that has appeared elsewhere or that is currently under submission elsewhere, provided that it is identified as such.
+In this case, if their submission is accepted, the authors will be asked to produce a two-page summary that cites the full version of their work.
+This summary is what will appear in the PaPoC materials.
 
 Instructions for submissions will appear here closer to the submission deadline.
 
