@@ -17,7 +17,19 @@ Topics of interest include models and mechanisms for consistency in distributed 
 PaPoC 2020 will take place on April 27, 2020.
 It is colocated with [EuroSys 2020](https://www.eurosys2020.org/) in Heraklion, Crete, Greece.
 
-The [Call for Papers](cfp.html) for PaPoC 2020 is available; please consider submitting your work.
+### Programme
+
+<a href="https://hagit.net.technion.ac.il/"><img src="assets/images/hagit-attiya.jpg" width="200" height="150" style="float: left; margin: 0 1em 1em 0"></a>
+The keynote at PaPoC will be given by [**Hagit Attiya**](https://hagit.net.technion.ac.il/)
+(Professor, The Harry W. Labov and Charlotte Ullman Labov Academic Chair, Faculty of Computer Science, Technion, Israel).
+
+Keynote title and abstract TBC.
+
+<p style="clear: left">
+We are seeking two types of contribution to the PaPoC 2020 programme: short papers (5-6 pages) and contributed talks (summarized in 2-page extended abstracts).
+Please see the <a href="cfp.html">Call for Papers</a> for further details.
+We look forward to seeing your submissions!
+</p>
 
 ### Important Dates
 
