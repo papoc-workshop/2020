@@ -18,6 +18,7 @@ Program Committee
 * Jim Dowling (Logical Clocks, Stockholm, Sweden)
 * Carla Ferreira (NOVA University of Lisbon, Portugal)
 * Heidi Howard (University of Cambridge, UK)
+* Heather Miller (Carnegie Mellon University, USA)
 * Roberto Palmieri (Lehigh University, USA)
 * Gustavo Petri (Arm Research, Cambridge, UK)
 * Marco Serafini (Qatar Computing Research Institute, Qatar)
