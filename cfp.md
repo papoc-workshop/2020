@@ -27,8 +27,8 @@ How to submit your work
 
 The PaPoC workshop invites two types of submissions:
 
-* Short papers (5-6 pages) discussing original contributions, experience reports, or work in progress reports (supported by initial validations);
-* Contributed talks, summarized in 2 page extended abstracts, reporting positions and visions for the future, identifying new challenges and research venues, or reports for early ongoing work. 
+* Short papers (5–6 pages) discussing original contributions, experience reports, or work in progress reports (supported by initial validations);
+* Contributed talks, summarized in 1–2 page extended abstracts, reporting positions and visions for the future, identifying new challenges and research venues, or reports for early ongoing work. 
 
 We accept longer proposals, under the understanding that PC members are only expected to read the first six pages (in the case of papers) or two pages (in the case of extended abstracts) of such longer submissions.
 All submissions should be written in English and provided in PDF format.
