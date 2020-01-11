@@ -22,8 +22,8 @@ The workshop is looking for contributions on the following, and associated, topi
 * Reasoning, analysis and verification of application programs using storage systems with weak consistency models.
 * Strengthening the guarantees beyond consistency: fault tolerance, security, ensuring invariants are preserved, bounding metadata size, and controlling divergence.
 
-How to submit your work
------------------------
+Details on submissions
+----------------------
 
 The PaPoC workshop invites two types of submissions:
 
@@ -42,7 +42,18 @@ Authors may submit work that has appeared elsewhere or that is currently under s
 In this case, if their submission is accepted, the authors will be asked to produce a two-page summary that cites the full version of their work.
 This summary is what will appear in the PaPoC materials.
 
-Instructions for submissions will appear here closer to the submission deadline.
+How to submit your work
+-----------------------
+
+Submissions should be made [via Easychair](https://easychair.org/conferences/?conf=papoc2020).
+
+Submissions should be in PDF format.
+We suggest that you use the [ACM template for LaTeX or MS Word](https://www.acm.org/publications/proceedings-template), but this is not requried.
+If using the LaTeX template, please use the following document class (which matches the [format used by EuroSys](https://www.eurosys2020.org/paper-submission/)):
+
+    \documentclass[sigplan,10pt]{acmart}
+
+In case of any questions, please contact the Program Chairs at [papoc2020@easychair.org](mailto:papoc2020@easychair.org).
 
 Important Dates
 ---------------
