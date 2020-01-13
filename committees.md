@@ -11,6 +11,7 @@ Program Chairs
 Program Committee
 -----------------
 
+* Peter Alvaro (University of California, Santa Cruz, USA)
 * Carlos Baquero (HASLab, INESC TEC & University of Minho, Portugal)
 * Alysson Bessani (Universidade de Lisboa, Portugal)
 * Sebastian Burckhardt (Microsoft Research, USA)
