@@ -23,7 +23,7 @@ Program Committee
 * Roberto Palmieri (Lehigh University, USA)
 * Gustavo Petri (Arm Research, Cambridge, UK)
 * Marco Serafini (University of Massachusetts Amherst, USA)
-* Ali Shoker (INESC TEC, Portugal)
+* Ali Shoker (VORTEX Colab, Portugal)
 * KC Sivaramakrishnan (Indian Institute of Technology, Madras, India)
 * Peter van Hardenberg (Ink & Switch, San Francisco, USA)
 
