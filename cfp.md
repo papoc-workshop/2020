@@ -58,7 +58,7 @@ In case of any questions, please contact the Program Chairs at [papoc2020@easych
 Important Dates
 ---------------
 
-| Submission deadline: | February 21, 2020 |
+| Submission deadline: | ~~February 21, 2020~~ March 1, 2020 (23:59 [AoE](https://www.timeanddate.com/time/zones/aoe)) |
 |----------------------|-------------------|
 | Notification date:   | March 13, 2020    |
 | Camera-Ready:        | March 27, 2020    |
