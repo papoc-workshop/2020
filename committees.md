@@ -15,7 +15,7 @@ Program Committee
 * Carlos Baquero (HASLab, INESC TEC & University of Minho, Portugal)
 * Alysson Bessani (Universidade de Lisboa, Portugal)
 * Sebastian Burckhardt (Microsoft Research, USA)
-* Natasha Crooks (UT Austin and Cornell University, USA)
+* Natacha Crooks (UT Austin and Cornell University, USA)
 * Jim Dowling (Logical Clocks, Stockholm, Sweden)
 * Carla Ferreira (NOVA University of Lisbon, Portugal)
 * Heidi Howard (University of Cambridge, UK)
