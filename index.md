@@ -2,6 +2,10 @@
 title: PaPoC Workshop 2020
 ---
 
+**Please note: The PaPoC workshop will not be taking place as planned due to COVID-19.
+We are waiting to hear from EuroSys whether the conference will be rescheduled to new dates or moved online.
+PaPoC will follow the decision of EuroSys.**
+
 The 7th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC) will take place on April 27, 2020, in Heraklion, Crete, Greece, and is co-located with the [EuroSys 2020](https://www.eurosys2020.org) conference.
 It is a successor to previous workhops in this series, [PaPeC 2014](http://eventos.fct.unl.pt/papec/), [PaPoC 2015](http://papoc.di.uminho.pt/), [PaPoC 2016](http://www2.ucsc.edu/papoc-2016/), [PaPoC 2017](http://software.imdea.org/Conferences/PAPOC17/program.shtml), [PaPoC 2018](https://papoc-workshop.github.io/2018/) and [PaPoC 2019](https://novasys.di.fct.unl.pt/conferences/papoc19/) which brought together researchers and practitioners in the areas of distributed systems, programming languages, databases, and concurrent programming.
 
@@ -34,7 +38,7 @@ We look forward to seeing your submissions!
 ### Important Dates
 
 | Submission deadline: | ~~February 21, 2020~~ March 1, 2020 (23:59 [AoE](https://www.timeanddate.com/time/zones/aoe)) |
-|----------------------|-------------------|
-| Notification date:   | ~~March 13, 2020~~ March 20, 2020    |
-| Camera-Ready:        | March 27, 2020    |
-| Workshop:            | April 27, 2020    |
+|----------------------|-----------------------------------|
+| Notification date:   | ~~March 13, 2020~~ March 27, 2020 |
+| Camera-Ready:        | ~~March 27, 2020~~ April 10, 2020 |
+| Workshop:            | ~~April 27, 2020~~ cancelled due to COVID-19 |
