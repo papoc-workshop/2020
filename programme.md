@@ -17,6 +17,8 @@ Keynote
 The keynote at PaPoC will be given by [**Hagit Attiya**](https://hagit.net.technion.ac.il/)
 (Professor, The Harry W. Labov and Charlotte Ullman Labov Academic Chair, Faculty of Computer Science, Technion, Israel).
 
+**Keynote title**: Specification and complexity of replicated objects
+
 **Abstract:**
 
 Modern replicated data stores aim to provide high availability, by immediately responding to client
