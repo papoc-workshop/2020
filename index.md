@@ -28,13 +28,9 @@ It is colocated with [EuroSys 2020](https://www.eurosys2020.org/) ~~in Heraklion
 The keynote at PaPoC will be given by [**Hagit Attiya**](https://hagit.net.technion.ac.il/)
 (Professor, The Harry W. Labov and Charlotte Ullman Labov Academic Chair, Faculty of Computer Science, Technion, Israel).
 
-Keynote title and abstract TBC.
+Keynote title: **Specification and complexity of replicated objects**
 
-<p style="clear: left">
-We are seeking two types of contribution to the PaPoC 2020 programme: short papers (5-6 pages) and contributed talks (summarized in 2-page extended abstracts).
-Please see the <a href="cfp.html">Call for Papers</a> for further details.
-We look forward to seeing your submissions!
-</p>
+<p style="clear: left">Please see the <a href="programme.html">programme page</a> for more detail.</p>
 
 ### Important Dates
 
