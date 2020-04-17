@@ -7,8 +7,8 @@ Participating in the PaPoC workshop
 
 We will use the [Zoom](https://zoom.us/) videoconferencing software to hold the PaPoC workshop online.
 The workshop will take place on April 27, 2020, during daytime hours in European time zones.
-Anybody is welcome to participate in the workshop; advance registration through EuroSys will be required (free of charge).
-We will post details on how to register here once they are available.
+Anybody is welcome to participate in the workshop, but you must
+[register in advance through EuroSys](https://www.eurosys2020.org/registration/) (free of charge).
 
 
 Keynote
