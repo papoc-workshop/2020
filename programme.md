@@ -10,11 +10,14 @@ The workshop will take place on April 27, 2020, during daytime hours in European
 Anybody is welcome to participate in the workshop, but you must
 [register in advance through EuroSys](https://www.eurosys2020.org/registration/) (free of charge).
 
+Schedule times are given in [Central European Summer Time](https://www.timeanddate.com/time/zones/cest)
+(CEST), and converted into your local time zone based on your web browser's settings.
+
 
 Keynote
 -------
 
-9:30–10:15 CEST
+09:30–10:15 CEST (<span class="schedule">07:30–08:15 UTC</span>)
 
 
 * **Specification and complexity of replicated objects** [[abstract](#abstract-0)]
@@ -45,7 +48,7 @@ Keynote
 Session 1: Databases and consensus
 ----------------------------------
 
-10:30–11:30 CEST
+10:30–11:30 CEST (<span class="schedule">08:30–09:30 UTC</span>)
 
 * **Paxos vs Raft: Have we reached consensus on distributed consensus?** [[abstract](#abstract-1)]
 
@@ -112,7 +115,7 @@ Session 1: Databases and consensus
 Session 2: Causal consistency
 -----------------------------
 
-12:30–13:30 CEST
+12:30–13:30 CEST (<span class="schedule">10:30–11:30 UTC</span>)
 
 
 * **Orion: Time Estimated Causally Consistent Key-Value Store** [[abstract](#abstract-4)]
@@ -169,7 +172,7 @@ Session 2: Causal consistency
 Session 3: CRDT algorithms (1)
 ------------------------------
 
-14:30–15:30 CEST
+14:30–15:30 CEST (<span class="schedule">12:30–13:30 UTC</span>)
 
 
 * **Chronofold: a data structure for versioned text** [[abstract](#abstract-7)]
@@ -232,7 +235,7 @@ Session 3: CRDT algorithms (1)
 Session 4: CRDT algorithms (2)
 ------------------------------
 
-16:00–16:40 CEST
+16:00–16:40 CEST (<span class="schedule">14:00–14:40 UTC</span>)
 
 
 * **A Low-Cost Set CRDT Based on Causal Lengths** [[abstract](#abstract-10)]
@@ -272,7 +275,7 @@ Session 4: CRDT algorithms (2)
 Session 5: CRDT systems
 -----------------------
 
-17:30–18:30 CEST
+17:30–18:30 CEST (<span class="schedule">15:30–16:30 UTC</span>)
 
 * **AutoCouch: A JSON CRDT Framework** [[abstract](#abstract-12)]
 
@@ -327,11 +330,28 @@ Session 5: CRDT systems
 
 
 <script>
+// Hide or show abstracts when clicking on links
 for (let link of document.querySelectorAll('a[href^="#abstract-"]')) {
   link.addEventListener('click', (event) => {
     event.preventDefault();
     const id = event.target.getAttribute('href').replace(/^#/, '');
     document.body.classList.toggle('show-' + id);
-  })
+  });
+}
+
+function twoDigit(number) {
+  return number.toLocaleString('en-US', {minimumIntegerDigits: 2, useGrouping:false});
+}
+
+// Time zone conversion of schedule times
+for (let session of document.querySelectorAll('span.schedule')) {
+  let [_, hourStart, minStart, hourFinish, minFinish] = session.innerText.match(/^([0-9]+):([0-9]+)–([0-9]+):([0-9]+) UTC/);
+  let start  = new Date(Date.UTC(2020, 3, 27, parseInt(hourStart),  parseInt(minStart)));
+  let finish = new Date(Date.UTC(2020, 3, 27, parseInt(hourFinish), parseInt(minFinish)));
+  session.innerText = [
+    twoDigit(start .getHours()), ':', twoDigit(start .getMinutes()), '–',
+    twoDigit(finish.getHours()), ':', twoDigit(finish.getMinutes()), ' ',
+    Intl.DateTimeFormat().resolvedOptions().timeZone
+  ].join('');
 }
 </script>
