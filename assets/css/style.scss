@@ -17,3 +17,13 @@
 .bottombanner {
     width: 100%;
 }
+
+@for $i from 0 through 14 {
+  div#abstract-#{$i} {
+    display: none;
+  }
+
+  body.show-abstract-#{$i} div#abstract-#{$i} {
+    display: block;
+  }
+}
