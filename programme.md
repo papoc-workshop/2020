@@ -11,7 +11,9 @@ Anybody is welcome to participate in the workshop, but you must
 [register in advance through EuroSys](https://www.eurosys2020.org/registration/) (free of charge).
 
 Schedule times are given in [Central European Summer Time](https://www.timeanddate.com/time/zones/cest)
-(CEST), and converted into your local time zone based on your web browser's settings.
+(CEST), and converted into your local time zone based on your web browser's settings. Please note
+that CEST is not the same timezone as the workshop would have followed if it had taken place
+physically in Crete.
 
 
 Keynote
