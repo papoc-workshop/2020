@@ -52,7 +52,10 @@ Session 1: Databases and consensus
 
 10:30–11:30 CEST (<span class="schedule">08:30–09:30 UTC</span>)
 
-* **Paxos vs Raft: Have we reached consensus on distributed consensus?** [[abstract](#abstract-1)]
+* **Paxos vs Raft: Have we reached consensus on distributed consensus?**
+  [[abstract](#abstract-1),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393681),
+  [video](https://www.youtube.com/watch?v=JQss0uQUc6o)]
 
   Heidi Howard and Richard Mortier (University of Cambridge)
 
@@ -75,7 +78,10 @@ Session 1: Databases and consensus
   presentation rather than being  fundamental to the underlying algorithm being presented.</p>
   </div>
 
-* **Low-Latency Geo-Replicated State Machines with Guaranteed Writes** [[abstract](#abstract-2)]
+* **Low-Latency Geo-Replicated State Machines with Guaranteed Writes**
+  [[abstract](#abstract-2),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393686),
+  [video](https://www.youtube.com/watch?v=eioQwMehKsw)]
 
   Michael Eischer, Benedikt Straßner, and Tobias Distler (Friedrich-Alexander University Erlangen-Nürnberg)
 
@@ -94,7 +100,10 @@ Session 1: Databases and consensus
   significantly improve response times of geo-replicated applications.</p>
   </div>
 
-* **Preserving Reciprocal Consistency in Distributed Graph Databases** [[abstract](#abstract-3)]
+* **Preserving Reciprocal Consistency in Distributed Graph Databases**
+  [[abstract](#abstract-3),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393675),
+  [video](https://www.youtube.com/watch?v=n1JWPd-GCaQ)]
 
   Jack Waudby, Paul Ezhilchelvan (Newcastle University), Jim Webber (Neo4j), and Isi Mitrani (Newcastle University)
 
@@ -120,7 +129,10 @@ Session 2: Causal consistency
 12:30–13:30 CEST (<span class="schedule">10:30–11:30 UTC</span>)
 
 
-* **Orion: Time Estimated Causally Consistent Key-Value Store** [[abstract](#abstract-4)]
+* **Orion: Time Estimated Causally Consistent Key-Value Store**
+  [[abstract](#abstract-4),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393676),
+  [video](https://www.youtube.com/watch?v=xux0U1_1cmI)]
 
   Diptanshu Kakwani and Rupesh Nasre (IIT Madras)
 
@@ -135,7 +147,10 @@ Session 2: Causal consistency
   widely-used YCSB workload.</p>
   </div>
 
-* **The Intrinsic Cost of Causal Consistency** [[abstract](#abstract-5)]
+* **The Intrinsic Cost of Causal Consistency**
+  [[abstract](#abstract-5),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393674),
+  [video](https://www.youtube.com/watch?v=ymqEBG7BNXQ)]
 
   Albert van der Linde, Pedro Fouto, João Leitão, and Nuno Preguiça (NOVA LINCS, DI - FCT - UNL)
 
@@ -152,7 +167,10 @@ Session 2: Causal consistency
   without any additional metadata other than the already necessary to enforce reliability.</p>
   </div>
 
-* **On combining fault tolerance and partial replication with causal consistency** [[abstract](#abstract-6)]
+* **On combining fault tolerance and partial replication with causal consistency**
+  [[abstract](#abstract-6),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393684),
+  [video](https://www.youtube.com/watch?v=-1VrGa3y-bU)]
 
   Albert van der Linde, Diogo Serra, João Leitão, and Nuno Preguiça (NOVA LINCS, DI - FCT - UNL)
 
@@ -177,7 +195,10 @@ Session 3: CRDT algorithms (1)
 14:30–15:30 CEST (<span class="schedule">12:30–13:30 UTC</span>)
 
 
-* **Chronofold: a data structure for versioned text** [[abstract](#abstract-7)]
+* **Chronofold: a data structure for versioned text**
+  [[abstract](#abstract-7),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393680),
+  [video](https://www.youtube.com/watch?v=YcZQzvxC05k)]
 
   Victor Grishchenko and Mikhail Patrakeev (N.N. Krasovskii Institute of Mathematics and Mechanics)
 
@@ -195,7 +216,10 @@ Session 3: CRDT algorithms (1)
   domain of collaborative editing.</p>
   </div>
 
-* **Efficient Renaming in Sequence Conflict-Free Replicated Data Types** [[abstract](#abstract-8)]
+* **Efficient Renaming in Sequence Conflict-Free Replicated Data Types**
+  [[abstract](#abstract-8),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393682),
+  [video](https://www.youtube.com/watch?v=uHMj-xzkNI8)]
 
   Matthieu Nicolas, Gérald Oster, and Olivier Perrin (Université de Lorraine)
 
@@ -218,7 +242,10 @@ Session 3: CRDT algorithms (1)
   structure and eventually limits it.</p>
   </div>
 
-* **Moving Elements in List CRDTs** [[abstract](#abstract-9)]
+* **Moving Elements in List CRDTs**
+  [[abstract](#abstract-9),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393677),
+  [video](https://www.youtube.com/watch?v=TYBV324NWNQ)]
 
   Martin Kleppmann (University of Cambridge)
 
@@ -240,7 +267,10 @@ Session 4: CRDT algorithms (2)
 16:00–16:40 CEST (<span class="schedule">14:00–14:40 UTC</span>)
 
 
-* **A Low-Cost Set CRDT Based on Causal Lengths** [[abstract](#abstract-10)]
+* **A Low-Cost Set CRDT Based on Causal Lengths**
+  [[abstract](#abstract-10),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393678),
+  [video](https://www.youtube.com/watch?v=l4JxlK8Qzvs)]
 
   Weihai Yu and Sigbørn Rostad (The Arctic University of Norway)
 
@@ -255,7 +285,10 @@ Session 4: CRDT algorithms (2)
   and performance.</p>
   </div>
 
-* **Composing and Decomposing Op-Based CRDTs with Semidirect Products** [[abstract](#abstract-11)]
+* **Composing and Decomposing Op-Based CRDTs with Semidirect Products**
+  [[abstract](#abstract-11),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393687),
+  [video](https://www.youtube.com/watch?v=jOGVp55VwO0)]
 
   Matthew Weidner, Heather Miller, and Christopher Meiklejohn (Carnegie Mellon University)
 
@@ -279,7 +312,10 @@ Session 5: CRDT systems
 
 17:30–18:30 CEST (<span class="schedule">15:30–16:30 UTC</span>)
 
-* **AutoCouch: A JSON CRDT Framework** [[abstract](#abstract-12)]
+* **AutoCouch: A JSON CRDT Framework**
+  [[abstract](#abstract-12),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393679),
+  [video](https://www.youtube.com/watch?v=D2_irGwRpjc)]
 
   Pascal Grosch, Roman Krafft, Marcel Wölki, and Annette Bieniusa (TU Kaiserslautern)
 
@@ -299,7 +335,10 @@ Session 5: CRDT systems
   while requiring few adaptations to provide smooth online/offline transitions for web apps.</p>
   </div>
 
-* **Flec: a versatile programming framework for eventually consistent systems** [[abstract](#abstract-13)]
+* **Flec: a versatile programming framework for eventually consistent systems**
+  [[abstract](#abstract-13),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393685),
+  [video](https://www.youtube.com/watch?v=uIRU15TdR0g)]
 
   Jim Bauwens and Elisa Gonzalez Boix (Vrije Universiteit Brussel)
 
@@ -314,7 +353,10 @@ Session 5: CRDT systems
   any environment supporting WebAssembly.</p>
   </div>
 
-* **PushPin: Towards Production-Quality Peer-to-Peer Collaboration** [[abstract](#abstract-14)]
+* **PushPin: Towards Production-Quality Peer-to-Peer Collaboration**
+  [[abstract](#abstract-14),
+  [paper](https://dl.acm.org/doi/abs/10.1145/3380787.3393683),
+  [video](https://www.youtube.com/watch?v=u4bJIdVwZCQ)]
 
   Peter van Hardenberg (Ink & Switch) and Martin Kleppmann (University of Cambridge)
 
