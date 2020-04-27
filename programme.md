@@ -15,6 +15,8 @@ Schedule times are given in [Central European Summer Time](https://www.timeandda
 that CEST is not the same timezone as the workshop would have followed if it had taken place
 physically in Crete.
 
+All talks (but not Q&A) are also
+[available on YouTube](https://www.youtube.com/playlist?list=PLHHiNr_VnyWKj64PWjd9iM2OY19s9QGCY).
 
 Keynote
 -------
@@ -22,7 +24,8 @@ Keynote
 09:30–10:15 CEST (<span class="schedule">07:30–08:15 UTC</span>)
 
 
-* **Specification and complexity of replicated objects** [[abstract](#abstract-0)]
+* **Specification and complexity of replicated objects** [[abstract](#abstract-0),
+  [video](https://www.youtube.com/watch?v=BjuXsZk4Wj0)]
 
   [Hagit Attiya](https://hagit.net.technion.ac.il/) (Technion, Israel)
 
